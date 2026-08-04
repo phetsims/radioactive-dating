@@ -1,1 +1,0 @@
-NOTE implementation overview
